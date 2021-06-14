@@ -8,8 +8,8 @@ module.exports = {
     },
 
     discord: {
-        token: 'TOKEN',
-        prefix: 'PREFIX',
+        token: 'ODM3MDU0NzcyNzkwOTUxOTc3.YIm-AQ.RnroPxkugF7O6y5VIDipG4fHxwU',
+        prefix: '1',
         activity: 'ACTIVITY',
     },
 
